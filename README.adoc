@@ -24,7 +24,7 @@ To interact with your booster while its running, use the form at `http://localho
 [source,bash,options="nowrap",subs="attributes+"]
 ----
 $ curl http://localhost:8080/api/greeting
-{"content":"Hello, World!"}
+{"content":"H
 
 $ curl http://localhost:8080/api/greeting?name=Sarah
 {"content":"Hello, Sarah!"}
